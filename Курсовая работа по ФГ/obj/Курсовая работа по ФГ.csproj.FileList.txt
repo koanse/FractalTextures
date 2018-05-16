@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Курсовая_работа_по_ФГ.Properties.Resources.resources
+obj\Debug\Курсовая работа по ФГ.csproj.GenerateResource.Cache
+bin\Debug\Курсовая работа по ФГ.exe
+bin\Debug\Курсовая работа по ФГ.pdb
+obj\Debug\Курсовая работа по ФГ.exe
+obj\Debug\Курсовая работа по ФГ.pdb
+obj\Debug\Курсовая_работа_по_ФГ.directXform.resources
